@@ -1,3 +1,8 @@
+# Atom remote sync plugin configuration
+.remote-sync.json
+
+
+## === Predefined ===
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
