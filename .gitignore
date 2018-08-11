@@ -1,3 +1,6 @@
+# On-the-fly testing scrap folder
+.scrap
+
 # Atom remote sync plugin configuration
 .remote-sync.json
 
